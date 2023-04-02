@@ -15,4 +15,4 @@
 - Tratando de organizar mi vida con Notion
 - Fundamentalista del mate
 
-![Acá estaría mi foto]()
+![Acá estaría mi foto](foto.jpeg)
