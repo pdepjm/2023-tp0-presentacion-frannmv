@@ -8,7 +8,7 @@ Legajo: 174.457-4
     - Hincha de **bokita pasión** como toda persona de bien
         - Traigan un DT decente por favor
 - Últimamente estoy enganchado en leer y aprender sobre Productividad y Desarrollo de Hábitos
-  - Recomiendo fuertemente **"Hábitos Atómicos"**
+  - Recomiendo **"Hábitos Atómicos"**
 - Tratando de organizar mi vida con Notion
 - Fundamentalista del mate
 - Milanesa Napolitana y Ravioles top 2 comidas
