@@ -1,6 +1,3 @@
-# 2023-tp0-presentacion-frannmv
-2023-tp0-presentacion-frannmv created by GitHub Classroom
-
 ## Franco Augusto Moreno Vera
 ~~~
 Legajo: 174.457-4 
