@@ -15,4 +15,4 @@ Legajo: 174.457-4
 - Tratando de organizar mi vida con Notion
 - Fundamentalista del mate
 
-![Acá estaría mi foto](fotoo.jpeg)
+![Acá estaría mi foto](foto.jpeg)
