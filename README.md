@@ -11,6 +11,5 @@ Legajo: 174.457-4
   - Recomiendo **"Hábitos Atómicos"**
 - Tratando de organizar mi vida con Notion
 - Fundamentalista del mate
-- Milanesa Napolitana y Ravioles top 2 comidas
 
 ![Acá estaría mi foto](foto.jpeg)
